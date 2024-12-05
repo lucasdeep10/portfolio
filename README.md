@@ -72,7 +72,7 @@ Si te interesa colaborar en algún proyecto o necesitas más información, ¡no 
 - **Teléfono:** (+54) 2474 403618  
 - **Ubicación:** Victoria, Entre Ríos, Argentina  
 
-Además, puedes revisar mi [LinkedIn](#) o explorar más sobre mi experiencia aquí en GitHub.
+Además, puedes revisar mi [LinkedIn](https://www.linkedin.com/in/lucas-ferreyra-en/) o explorar más sobre mi experiencia aquí en GitHub.
 
 ---
 
